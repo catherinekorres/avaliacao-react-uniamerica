@@ -1,0 +1,27 @@
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+
+}
+
+.info {
+  margin-top: -70px;
+  background: #fff;
+  padding: 80px 50px 30px;
+  border-bottom: 1px solid #e6ecf0;
+}
+
+.info ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.info ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
+.info ul li img {
+  margin-right: 5px;
+}
