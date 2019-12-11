@@ -1,0 +1,7 @@
+.banner {
+  background: url(../../assets/banner.png);
+  background-size: auto;
+  height: 300px;
+  width: 900px;
+  margin: 20px auto 0 ;
+}
